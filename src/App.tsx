@@ -5,13 +5,6 @@ import './style.css';
 export default function App() {
   return (
     <div id = "body_bio">
-      <header>
-      <nav className="navbar fixed-bottom bg-body-tertiary">
-  <div className="container-fluid">
-    <a className="navbar-brand" href="#">Fixed bottom</a>
-  </div>
-</nav>
-      </header>
       <h1>Hello Everyone!</h1>
       <p>Welcome to my personal page!</p>
       <h3>A note from Andy:</h3>
