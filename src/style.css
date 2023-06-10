@@ -1,18 +1,23 @@
-#body_bio {
+
+
+body{
   font-family: 'Comfortaa', cursive;
   text-align: center;
-  background-image: url("https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=824&q=80");
-  background-size: cover;
+  color: white;
+  background-image: url('https://images.unsplash.com/photo-1586032788085-d75f745f26e0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1724&q=80');
+  background-repeat: no-repeat;
+  height: 100%;
+  
+}
 
+.off{
+  background: transparent;
 }
 
 h1{
   font-family: 'Ubuntu', sans-serif;
   font-size: 4.5em;
-  text-transform: uppercase;
-	background: linear-gradient(to right, #DB4437 0%, #F4B400 100%);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent; 
+  
 }
 h4{
   margin-left: 15%;
